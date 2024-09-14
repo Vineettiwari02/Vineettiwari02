@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)  
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=adobe-photoshop)  
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)  
 
 ---
 
