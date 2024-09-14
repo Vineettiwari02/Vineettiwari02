@@ -1,7 +1,6 @@
 ## Hey there, Vineet this side!
-<img align="right" alt="vineet" scr="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
-### 👨🏻‍💻 &nbsp;About Me
 
+### 👨🏻‍💻 &nbsp;About Me
 - 🤔 &nbsp; Fullstack Developer working remotely in India.
 <!-- - 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS)) -->
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
