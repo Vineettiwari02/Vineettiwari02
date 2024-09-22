@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Languages and Tools
 
-<img align="right" alt="coding" width="300" src="https://github.com/Vineettiwari02/Vineettiwari02/blob/main/oew_rrybb.gif">
+ <!-- <img align="right" alt="coding" width="300" src="https://github.com/Vineettiwari02/Vineettiwari02/blob/main/oew_rrybb.gif"> -->
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
