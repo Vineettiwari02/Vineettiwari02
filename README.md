@@ -1,7 +1,7 @@
 ## Hey there, Vineet this side!
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🤔 &nbsp; Fullstack Developer working remotely in India.
+- 🤔 &nbsp; Fullstack Developer & Designer working remotely in India.
 - 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 - ⚡️ &nbsp; Fun fact: I like playing chess, reading and discovering new technologies.
 
